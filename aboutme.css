@@ -1,0 +1,43 @@
+/* font-family: 'Lobster', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Cabin', sans-serif; */
+
+body{
+ background-image: url(https://fitzdecarts.com/wp-content/uploads/2018/03/free-background-images.jpg);
+ background-repeat: no-repeat;
+ background-size: 2000px 2000px;
+}
+
+h1{
+ color: #00ff8c;
+ font-family: 'Cabin', sans-serif;
+}
+
+#aboutme3{
+  color: #00ff8c;
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  padding-top: 50px;
+}
+
+h4{
+  color: #00ff8c;
+  text-align: center;
+  font-family: 'Cabin', sans-serif;
+  padding-top: 8px;
+}
+
+#aboutme4{
+  width: 100%;
+  max-width: 400px;
+}
+
+a{
+  color: red;
+}
+
+#MyFace{
+  margin-top: 35px;
+  width: 180px;
+  height: 200px;
+}

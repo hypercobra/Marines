@@ -1,0 +1,60 @@
+/* font-family: 'Lobster', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Cabin', sans-serif; */
+
+body{
+  background-image: url(https://cdn.hipwallpaper.com/i/14/77/YR9unJ.png);
+  background-repeat: no-repeat;
+}
+
+td, th{
+  color: #00ff8c;
+  border: 1px solid #0de8ca;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+p{
+  padding-top: 50px;
+}
+
+table{
+  font-family: 'Cabin', sans-serif;
+  border: 2px solid #0de8ca;
+}
+
+#scratchThumbnail{
+  height: 200px;
+  width: 250px;
+}
+
+#SpectrumV{
+  width: 250px;
+}
+
+#ScratchFG{
+  width: 250px;
+}
+
+#Spec5{
+  width: 250px;
+}
+
+#Emoji{
+  width: 250px;
+  height: 200px;
+}
+
+#EmojiCode{
+  width: 250px;
+}
+
+#URLFICTION{
+  width: 250px;
+}
+
+#FictionStory{
+  width: 350px;
+  height: 100px;
+}
